@@ -1,0 +1,6 @@
+data/zanbil_csv.zip filter=lfs diff=lfs merge=lfs -text
+data/zanbil.zip filter=lfs diff=lfs merge=lfs -text
+data/zanbil_dataset_scaled.parquet.gzip filter=lfs diff=lfs merge=lfs -text
+data/zanbil_dataset_unscaled.parquet.gzip filter=lfs diff=lfs merge=lfs -text
+data/zanbil_requests.parquet.gzip filter=lfs diff=lfs merge=lfs -text
+data/zanbil_sessions.parquet.gzip filter=lfs diff=lfs merge=lfs -text
